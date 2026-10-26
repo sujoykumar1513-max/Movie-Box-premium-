@@ -1,7 +1,7 @@
 {
-  "show": off,
+  "show": true,
   "force": true,
-  "version_name": "14.4.8",
+  "version_name": "14.4.9",
   "version_code": 4,
   "title": "New Update Available! 🚀",
   "message": "We've added new features and fixed bugs. Update now for the best experience!",
